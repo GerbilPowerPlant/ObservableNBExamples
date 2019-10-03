@@ -1,0 +1,14 @@
+{
+  "name": "776f0a3c5ed76ab9",
+  "main": "d/776f0a3c5ed76ab9.js",
+  "version": "3265.0.0",
+  "homepage": "https://observablehq.com/d/776f0a3c5ed76ab9",
+  "author": {
+    "name": "gerbilpowerplant",
+    "url": "https://observablehq.com/@gerbilpowerplant"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
