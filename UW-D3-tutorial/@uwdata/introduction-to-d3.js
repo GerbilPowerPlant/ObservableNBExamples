@@ -1,4 +1,4 @@
-// https://observablehq.com/d/776f0a3c5ed76ab9@3265
+// https://observablehq.com/@uwdata/introduction-to-d3@3265
 import define1 from "../@uwdata/data-utilities.js";
 
 export default function define(runtime, observer) {

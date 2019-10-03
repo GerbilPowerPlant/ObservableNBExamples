@@ -1,6 +1,6 @@
 # Introduction to D3
 
-https://observablehq.com/d/776f0a3c5ed76ab9@3265
+https://observablehq.com/@tongshuangwu/introduction-to-d3@3265
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,14 +14,14 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/776f0a3c5ed76ab9.tgz?v=3
+npm install https://api.observablehq.com/@uwdata/introduction-to-d3.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "776f0a3c5ed76ab9";
+import define from "@tongshuangwu/introduction-to-d3";
 ~~~
 
 To log the value of the cell named “foo”:

@@ -1,11 +1,11 @@
 {
-  "name": "776f0a3c5ed76ab9",
-  "main": "d/776f0a3c5ed76ab9.js",
+  "name": "@tongshuangwu/introduction-to-d3",
+  "main": "@uwdata/introduction-to-d3.js",
   "version": "3265.0.0",
-  "homepage": "https://observablehq.com/d/776f0a3c5ed76ab9",
+  "homepage": "https://observablehq.com/@tongshuangwu/introduction-to-d3",
   "author": {
-    "name": "gerbilpowerplant",
-    "url": "https://observablehq.com/@gerbilpowerplant"
+    "name": "Tongshuang Wu",
+    "url": "https://observablehq.com/@tongshuangwu"
   },
   "type": "module",
   "peerDependencies": {
